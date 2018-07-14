@@ -136,7 +136,7 @@ final class Admin_Notices_MS {
 			return false;
 
 		// Just the admin-notices-ms part
-		$config = $config['admin-notices'];
+		$config = $config['admin-notices-ms'];
 
 		// Check message value
 		if (empty($config['message']))
