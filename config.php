@@ -15,7 +15,7 @@ return [
 		 */
 		'days_before_display_rate_us' 	=> 3, // 3 days delay
 		'days_dismissing_rate_us' 		=> 270, // 9 months reappear
-		'rate_us_url'					=> 'https://wordpress.org/support/plugin/[plugin uri]/reviews/#new-post',
+		'rate_us_url'					=> 'https://wordpress.org/support/plugin/disable-post-via-email-littlebizzy/reviews/#new-post',
 		'rate_us_message' 				=> 'Thanks for using <strong>%plugin%</strong>. Please support our free work by rating this plugin with 5 stars on WordPress.org. <a href="%url%" target="_blank">Click here to rate us.</a>',
 
 		/**
