@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Disable Post Via Email
-Plugin URI: https://www.littlebizzy.com/plugins/[plugin-slug]
+Plugin URI: https://www.littlebizzy.com/plugins/disable-post-via-email
 Description: Completely disables and hides the Post Via Email feature included in WordPress core for stronger security and to simplify the backend settings page.
 Version: 1.0.0
 Author: LittleBizzy
