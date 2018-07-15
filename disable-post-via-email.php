@@ -8,6 +8,7 @@ Author: LittleBizzy
 Author URI: https://www.littlebizzy.com
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Prefix: DPVEML
 */
 
 // Plugin namespace
