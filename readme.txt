@@ -1,39 +1,36 @@
-=== Disable Post Via Email ===
+=== Disable Post Via Email LittleBizzy ===
 
 Contributors: littlebizzy
 Donate link: https://www.patreon.com/littlebizzy
 Tags: disable, remove, post, via, email
 Requires at least: 4.4
 Tested up to: 4.9
-Requires PHP: 7.0
+Requires PHP: 7.2
 Multisite support: No
 Stable tag: 1.0.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Prefix: ABCXYZ
+Prefix: DPVEML
 
-Description of the plugin goes here, limited to 150 characters or less and should be a single well-written sentence that includes some of your most important keywords.
+Completely disables and hides the Post Via Email feature included in WordPress core for stronger security and to simplify the backend settings page.
 
 == Description ==
 
-Description of the plugin goes here, limited to 150 characters or less and should be a single well-written sentence that includes some of your most important keywords.
+Completely disables and hides the Post Via Email feature included in WordPress core for stronger security and to simplify the backend settings page.
 
 * [**Join our FREE Facebook group for support!**](https://www.facebook.com/groups/littlebizzy/)
-* [**Worth a 5-star review? Thank you!**](https://wordpress.org/support/plugin/example-littlebizzy/reviews/?rate=5#new-post)
-* [Plugin Homepage](https://www.littlebizzy.com/plugins/disable-emojis)
-* [Plugin GitHub](https://github.com/littlebizzy/disable-emojis)
+* [**Worth a 5-star review? Thank you!**](https://wordpress.org/support/plugin/disable-post-via-email-littlebizzy/reviews/?rate=5#new-post)
+* [Plugin Homepage](https://www.littlebizzy.com/plugins/disable-post-via-email)
+* [Plugin GitHub](https://github.com/littlebizzy/disable-post-via-email)
 
 *Our related OSS projects:*
 
 * [SlickStack (LEMP stack automation)](https://slickstack.io)
-* [WP Lite boilerplate](https://wplite.org)
 * [Starter Theme](https://starter.littlebizzy.com)
 
 #### The Long Version ####
 
-Here you can place a longer description of the plugin and its features, separated into paragraphs.
-
-    code snippet is indented with four spaces;
+For security and performance reasons, disables the Post Via Email feature in WordPress core and hides the menu on backend.
 
 #### Compatibility ####
 
@@ -49,7 +46,7 @@ The following defined constants are supported by this plugin:
 
 #### Plugin Features ####
 
-* Premium Version: [**SEO Genius**](https://www.littlebizzy.com/plugins/seo-genius)
+* Premium Version: [**Speed Demon**](https://www.littlebizzy.com/plugins/speed-demon)
 * Settings Page: No
 * PHP Namespaces: Yes
 * Object-Oriented Code: Yes
@@ -77,8 +74,7 @@ Note: This defined constant will only affect the notices mentioned above, and wi
 
 #### Inspiration ####
 
-* [Some Name](https://wordpress.org/plugins/plugin-name/)
-* [Another Name](https://wordpress.org/plugins/plugin-name/)
+* n/a
 
 #### Free Plugins ####
 
@@ -122,7 +118,7 @@ Note: This defined constant will only affect the notices mentioned above, and wi
 
 #### Premium Plugins ####
 
-* [**Members Only**](https://www.littlebizzy.com/members)
+* [**Members Only (Annual Subscription)**](https://www.littlebizzy.com/members)
 * [Dunning Master](https://www.littlebizzy.com/plugins/dunning-master)
 * [Genghis Khan](https://www.littlebizzy.com/plugins/genghis-khan)
 * [Great Migration](https://www.littlebizzy.com/plugins/great-migration)
@@ -182,5 +178,6 @@ Please avoid leaving negative reviews in order to get a feature implemented. Ins
 
 = 1.0.0 =
 * initial release
+* tested with PHP 7.0, 7.1, 7.2
 * plugin uses PHP namespaces
 * object-oriented code
