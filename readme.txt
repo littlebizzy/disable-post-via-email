@@ -1,4 +1,4 @@
-=== Disable Post Via Email LittleBizzy ===
+=== Disable Post Via Email ===
 
 Contributors: littlebizzy
 Donate link: https://www.patreon.com/littlebizzy
