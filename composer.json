@@ -1,0 +1,16 @@
+{
+    "name": "littlebizzy/disable-post-via-email",
+    "type": "wordpress-plugin",
+    "license": "GPLv3",
+    "homepage": "https://www.littlebizzy.com/plugins/disable-post-via-email",
+    "description": "Completely disables and hides the Post Via Email feature included in WordPress core for stronger security and to simplify the backend settings page.",
+    "keywords": ["wordpress","plugin","disable","remove","turn off","post via email","email posting","email publishing"],
+    "support": {
+        "issues": "https://github.com/littlebizzy/disable-post-via-email/issues",
+        "forum": "https://www.littlebizzy.com/members"
+    }
+    "require": {
+        "php": "^7.2",
+        "composer/installers": "~1.0"
+    }
+}
