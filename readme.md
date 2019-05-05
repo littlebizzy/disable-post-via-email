@@ -7,8 +7,11 @@ Completely disables and hides the Post Via Email feature included in WordPress c
 
 ### Defined Constants
 
-    /* Plugin Meta */
+    /** Plugin Meta */
     define('DISABLE_NAG_NOTICES', true);
+    
+    /** Disable Post Via Email */
+    define('DISABLE_POST_VIA_EMAIL', true); // default = true
 
 ### Compatibility
 
